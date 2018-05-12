@@ -1,0 +1,14 @@
+{
+  "name": "tc_12_05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test-conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^5.3.2"
+  }
+}
